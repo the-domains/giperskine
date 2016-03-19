@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T17:48:49.162Z'
-dateModified: '2016-03-19T17:48:24.369Z'
+datePublished: '2016-03-19T17:52:45.057Z'
+dateModified: '2016-03-19T17:48:55.570Z'
 title: How Smart Property Managers Defeat Stress
 author: []
 sourcePath: _posts/2016-03-19-how-smart-property-managers-defeat-stress.md
