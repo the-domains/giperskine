@@ -14,18 +14,18 @@ description: >-
   that
 
   it’s more bad news? Sometimes we delay the pain through avoidance.
-datePublished: '2016-03-19T23:01:28.311Z'
-dateModified: '2016-03-19T23:01:26.435Z'
+datePublished: '2016-03-19T23:03:20.270Z'
+dateModified: '2016-03-19T23:03:19.862Z'
 title: How Smart Property Managers Conquer Anxiety
 author: []
+sourcePath: _posts/2016-03-19-how-smart-property-managers-conquer-anxiety.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-how-smart-property-managers-conquer-anxiety.md
-published: true
 url: how-smart-property-managers-conquer-anxiety/index.html
 _type: Article
 
@@ -91,7 +91,6 @@ anything, because there is nothing to fear.
 
 And all because you remembered
 how to breathe.
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3ef2c01-bef0-40a4-9d2e-5dc02ffc4011.jpg)
 
 ## About
@@ -115,8 +114,6 @@ out his **Free Guide **called [Top 5 Reasons Property
 Managers Get Fired And How To Avoid Them][0].
 
 [__][1]
-
-
 
 [0]: http://eversmarts.com/
 [1]: http://eversmarts.com/top-5-reasons-property-managers-get-fired-ebook/
