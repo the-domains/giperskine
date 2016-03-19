@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T17:28:16.556Z'
-dateModified: '2016-03-19T17:27:55.812Z'
+datePublished: '2016-03-19T17:48:49.162Z'
+dateModified: '2016-03-19T17:48:24.369Z'
 title: How Smart Property Managers Defeat Stress
 author: []
+sourcePath: _posts/2016-03-19-how-smart-property-managers-defeat-stress.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-how-smart-property-managers-defeat-stress.md
-published: true
 url: how-smart-property-managers-defeat-stress/index.html
 _type: Article
 
@@ -44,13 +44,13 @@ Create a _Stress Log.
 _It is a separate list of the items that are causing stress. When you get it out
 of your head and down on paper, several important things happen:
 
-\* **Relief**. You relieve the strong emotions you feel because of the
+* **Relief**. You relieve the strong emotions you feel because of the
 perceived person, place or thing causing you stress (the stressor). Writing it
 down allows you (the "stressee") to step back and look at the situation more
 objectively. It also helps to take a few deep breaths as you feel the emotional
 impact of stress leave your body;
 
-\* **Shrinkage**. The stressor shrinks to a manageable size when you write it
+**Shrinkage**. The stressor shrinks to a manageable size when you write it
 down. Instead of your imagination creating more stress by constantly reviewing
 the stressor, putting it into words and writing it down actually weakens it; 
 
