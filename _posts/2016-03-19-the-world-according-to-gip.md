@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-19T17:56:03.082Z'
-dateModified: '2016-03-19T17:55:58.146Z'
+datePublished: '2016-03-19T20:36:13.336Z'
+dateModified: '2016-03-19T20:36:08.618Z'
 title: The World According To Gip
 author: []
 sourcePath: _posts/2016-03-19-the-world-according-to-gip.md
@@ -42,4 +42,4 @@ DALLAS - March 19, 2016 - When considering the things I remain grateful for, I'v
 
 **7\. Freedom** - I used to work weekends so I wouldn't have to in the future. For me, that was freedom. Now I build revenue-generating info products to benefit mankind and perpetuate a new level of freedom.
 
-There could be others for sure. But for me, 7 is always a lucky number as well as being short enough to remember easily. It's important to remember what's important, what matters and why we're here. This list
+There could be others for sure. But for me, 7 is always a lucky number as well as being short enough to remember. It's important to recall what's important, what matters and why I'm here. The list is my mantra. It represents what's truly vital...according to me.
