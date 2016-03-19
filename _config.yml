@@ -1,0 +1,28 @@
+name: GipErskine
+favicon: null
+layout_spectrum: 0.2572924457490444
+typography_spectrum: 0.9185701892711222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7768679002765566
+  lightness: 0.9568075856659561
+  saturation: 0.36041908524930477
+  rhythmicContrast: 0.5023702366743237
+purpose: []
