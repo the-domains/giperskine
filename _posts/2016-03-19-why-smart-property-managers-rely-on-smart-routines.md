@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T17:30:49.613Z'
-dateModified: '2016-03-19T17:30:38.428Z'
+datePublished: '2016-03-19T17:52:16.535Z'
+dateModified: '2016-03-19T17:49:09.536Z'
 title: |-
   Why Smart Property
   Managers Rely on Smart Routines
 author: []
+sourcePath: _posts/2016-03-19-why-smart-property-managers-rely-on-smart-routines.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-why-smart-property-managers-rely-on-smart-routines.md
-published: true
 url: why-smart-property-managers-rely-on-smart-routines/index.html
 _type: Article
 
