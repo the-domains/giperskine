@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T17:55:16.798Z'
-dateModified: '2016-03-19T17:54:24.011Z'
+datePublished: '2016-03-19T17:55:34.574Z'
+dateModified: '2016-03-19T17:55:20.762Z'
 title: |-
   How Smart
   Property Managers Find Sanity
