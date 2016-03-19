@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-19T16:51:30.587Z'
-dateModified: '2016-03-19T16:40:22.129Z'
+datePublished: '2016-03-19T17:55:16.798Z'
+dateModified: '2016-03-19T17:54:24.011Z'
 title: |-
   How Smart
   Property Managers Find Sanity
 author: []
+sourcePath: _posts/2016-03-19-how-smart-property-managers-find-sanity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-19-how-smart-property-managers-find-sanity.md
-published: true
 url: how-smart-property-managers-find-sanity/index.html
 _type: Article
 
@@ -33,13 +33,11 @@ The term "insane" has
 turned the corner. What was once stereotyped as a misunderstood abnormal mental
 condition is now in vogue.
 
-\*We have the insanity
-workout.
-
-\*We boast about our insane
-workload.
-
-\*We went to an insane concert
+* We have the insanity
+workout
+* We boast about our insane
+workload
+* We went to an insane concert
 last night. "It was crazy. Sick. Insane."
 
 Did you catch the one about the
