@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[GIP ERSKINE    Insights | Information | Intelligence]]></title>
-        <description><![CDATA[GIP ERSKINE    Insights | Information | Intelligence]]></description>
+        <title><![CDATA[GIP ERSKINE  -  Insights | Information | Intelligence]]></title>
+        <description><![CDATA[GIP ERSKINE  -  Insights | Information | Intelligence]]></description>
         <link>https://thegrid.ai/giperskine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 14:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 14:59:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/giperskine/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The World According To Gip]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/giperskine/the-world-according-to-gip/index.html</link>
             <guid isPermaLink="false">ab12b5ab-ba50-4d87-9fcd-5fa33355a25c</guid>
             <pubDate>Sat, 19 Mar 2016 20:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 Things Smart Property Managers Do]]></title>
+            <description><![CDATA[<article><h1>5 Things Smart Property Managers Do</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/giperskine/5-things-smart-property-managers-do/index.html</link>
+            <guid isPermaLink="false">b4b94a9e-7005-42e1-8a5c-dabc5fbd2e73</guid>
+            <pubDate>Sun, 20 Mar 2016 14:59:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I'm just like you]]></title>
@@ -80,15 +87,6 @@ Property Managers Want</h1><img src="https://the-grid-user-content.s3-us-west-2.
             <link>https://thegrid.ai/giperskine/what-smart-property-managers-want/index.html</link>
             <guid isPermaLink="false">ebd1f318-dca9-4125-aa96-94efd3fd31d9</guid>
             <pubDate>Sat, 19 Mar 2016 17:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Smart
-Property Managers Find Sanity]]></title>
-            <description><![CDATA[<article><h1>How Smart
-Property Managers Find Sanity</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf765afc-4cd8-4067-9672-3bb9fbc4d398.jpg"></article>]]></description>
-            <link>https://thegrid.ai/giperskine/how-smart-property-managers-find-sanity/index.html</link>
-            <guid isPermaLink="false">c31b790d-f8c4-4185-b093-5e0491719e3c</guid>
-            <pubDate>Sat, 19 Mar 2016 17:55:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
