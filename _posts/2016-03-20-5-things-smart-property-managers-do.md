@@ -5,23 +5,28 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-20T14:59:00.194Z'
-dateModified: '2016-03-20T14:57:18.433Z'
+description: |-
+  How to Achieve Property
+  Management Success Without Bragging, Bravado or
+  Belittling Others
+datePublished: '2016-03-20T15:01:47.281Z'
+dateModified: '2016-03-20T15:01:11.256Z'
 title: 5 Things Smart Property Managers Do
 author: []
+sourcePath: _posts/2016-03-20-5-things-smart-property-managers-do.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-5-things-smart-property-managers-do.md
-published: true
 url: 5-things-smart-property-managers-do/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48e3a86c-4085-4483-9f54-2fd1bfc3b864.jpg)
+
 __
 
 _**How to Achieve Property
