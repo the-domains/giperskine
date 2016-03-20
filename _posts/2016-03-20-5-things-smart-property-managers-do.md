@@ -9,8 +9,8 @@ description: |-
   How to Achieve Property
   Management Success Without Bragging, Bravado or
   Belittling Others
-datePublished: '2016-03-20T15:01:47.281Z'
-dateModified: '2016-03-20T15:01:11.256Z'
+datePublished: '2016-03-20T15:01:05.826Z'
+dateModified: '2016-03-20T15:00:39.498Z'
 title: 5 Things Smart Property Managers Do
 author: []
 sourcePath: _posts/2016-03-20-5-things-smart-property-managers-do.md
