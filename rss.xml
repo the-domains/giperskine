@@ -4,7 +4,7 @@
         <description><![CDATA[GIP ERSKINE  -  Insights | Information | Intelligence]]></description>
         <link>https://thegrid.ai/giperskine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 20:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 11:50:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/giperskine/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The World According To Gip]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/giperskine/the-world-according-to-gip/index.html</link>
             <guid isPermaLink="false">ab12b5ab-ba50-4d87-9fcd-5fa33355a25c</guid>
             <pubDate>Sat, 19 Mar 2016 20:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Smart Property Managers Want What Works]]></title>
+            <description><![CDATA[<p>As property managers, most of the time we know what we should do. You know, the actions we take to propel us forward, enable steady growth, and improve service quality—actions that work for us.</p>]]></description>
+            <link>https://thegrid.ai/giperskine/why-smart-property-managers-want-what-works/index.html</link>
+            <guid isPermaLink="false">847ea415-f10f-4f43-bc51-f384f5faa956</guid>
+            <pubDate>Wed, 01 Jun 2016 11:49:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Smart Property Managers Know Less Is More]]></title>
@@ -69,13 +76,6 @@ I’m a property manager. </p></article>]]></description>
             <link>https://thegrid.ai/giperskine/how-smart-property-managers-eliminate-distractions/index.html</link>
             <guid isPermaLink="false">622e61ef-9dd6-4551-8933-22db2c05ed68</guid>
             <pubDate>Sat, 19 Mar 2016 22:13:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Smart Property Managers Defeat Stress]]></title>
-            <description><![CDATA[<article><h1>How Smart Property Managers Defeat Stress</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f85d1a17-ac2f-4055-9ad2-0e6fe145d8a4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/giperskine/how-smart-property-managers-defeat-stress/index.html</link>
-            <guid isPermaLink="false">2a773336-dfe3-4a89-b4c3-6841d413e0a4</guid>
-            <pubDate>Sat, 19 Mar 2016 17:52:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
