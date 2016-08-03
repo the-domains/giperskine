@@ -4,7 +4,7 @@
         <description><![CDATA[GIP ERSKINE  -  Insights | Information | Intelligence]]></description>
         <link>https://thegrid.ai/giperskine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 11:50:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 15:57:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/giperskine/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The World According To Gip]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/giperskine/the-world-according-to-gip/index.html</link>
             <guid isPermaLink="false">ab12b5ab-ba50-4d87-9fcd-5fa33355a25c</guid>
             <pubDate>Sat, 19 Mar 2016 20:36:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Smart Property Managers Unplug for Summer]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fea7d764-eeeb-4152-9f54-343ef9648d41.jpg">]]></description>
+            <link>https://thegrid.ai/giperskine/how-smart-property-managers-unplug-for-summer/index.html</link>
+            <guid isPermaLink="false">eeadb5dc-aeea-4920-975e-88c3ab004b47</guid>
+            <pubDate>Wed, 03 Aug 2016 15:57:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Smart Property Managers Want What Works]]></title>
@@ -69,13 +76,6 @@ I’m a property manager. </p></article>]]></description>
             <link>https://thegrid.ai/giperskine/how-smart-property-managers-set-goals/index.html</link>
             <guid isPermaLink="false">00c5dd9c-eb13-4f08-ae9f-17584984cce9</guid>
             <pubDate>Sat, 19 Mar 2016 22:20:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Smart Property Managers Eliminate Distractions]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f688d24f-e6c3-4c71-a389-cc4e80813cab.jpg">]]></description>
-            <link>https://thegrid.ai/giperskine/how-smart-property-managers-eliminate-distractions/index.html</link>
-            <guid isPermaLink="false">622e61ef-9dd6-4551-8933-22db2c05ed68</guid>
-            <pubDate>Sat, 19 Mar 2016 22:13:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
