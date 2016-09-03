@@ -6,12 +6,11 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-19T20:36:13.336Z'
-dateModified: '2016-03-19T20:36:08.618Z'
+datePublished: '2016-08-31T17:30:44.291Z'
+dateModified: '2016-03-19T21:04:26.555Z'
 title: The World According To Gip
 author: []
 sourcePath: _posts/2016-03-19-the-world-according-to-gip.md
-published: true
 authors: []
 publisher:
   name: null
