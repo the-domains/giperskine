@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-31T17:35:11.436Z'
-dateModified: '2016-08-31T17:35:10.622Z'
+datePublished: '2016-08-31T17:35:13.828Z'
+dateModified: '2016-08-31T17:35:13.325Z'
 title: The World According To Gip
 author: []
 sourcePath: _posts/2016-03-19-the-world-according-to-gip.md
 authors: []
 publisher: {}
 via: {}
-starred: false
+starred: true
 url: the-world-according-to-gip/index.html
 _type: Article
 
