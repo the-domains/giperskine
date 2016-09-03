@@ -3,20 +3,17 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
 description: ''
-datePublished: '2016-08-31T17:30:44.291Z'
-dateModified: '2016-03-19T21:04:26.555Z'
+datePublished: '2016-08-31T17:35:11.436Z'
+dateModified: '2016-08-31T17:35:10.622Z'
 title: The World According To Gip
 author: []
 sourcePath: _posts/2016-03-19-the-world-according-to-gip.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: the-world-according-to-gip/index.html
 _type: Article
 
